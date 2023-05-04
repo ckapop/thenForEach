@@ -8,8 +8,8 @@
     "test": "tests"
   },
   "scripts": {
-    "install": "tsc.cmd",
-    "tsc:w": "tsc.cmd -w"
+    "install": "tsc",
+    "tsc:w": "tsc -w"
   },
   "repository": {
     "type": "git",
