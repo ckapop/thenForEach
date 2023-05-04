@@ -8,12 +8,12 @@
     "test": "tests"
   },
   "scripts": {
-    "install": "tsc",
-    "tsc:w": "tsc -w"
+    "install": "tsc.cmd",
+    "tsc:w": "tsc.cmd -w"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Vikasg7/thenForEach.git"
+    "url": "https://github.com/ckapop/thenForEach.git"
   },
   "keywords": [
     "pending"
@@ -21,6 +21,6 @@
   "author": "Vikas Gautam <v33vikasgautam@gmail.com> (http://mytrikks.blogspot.com)",
   "license": "MIT",
   "dependencies": {
-    "typescript": "latest"
+    "typescript": "~3.8.3"
   }
 }
